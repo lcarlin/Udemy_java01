@@ -10,3 +10,17 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 .metadata/*
+/.metadata/
+excercicios/.classpath
+excercicios/.project
+excercicios/.settings/org.eclipse.jdt.core.prefs
+excercicios/src/module-info.java
+exercicios/.classpath
+exercicios/.project
+exercicios/.settings/org.eclipse.jdt.core.prefs
+clinica/.classpath
+clinica/.project
+clinica/.settings/org.eclipse.jdt.core.prefs
+faculdade/.classpath
+faculdade/.project
+faculdade/.settings/org.eclipse.jdt.core.prefs
