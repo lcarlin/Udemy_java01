@@ -7,7 +7,7 @@ public class Temperatura {
 		final double grausF = 86 ; // esse aqui é quem se altera 
 		// double grausC = 0.0 ; 		
 
-		double  grausC =  ((grausF - fatorAjuste ) * (5/9.0)) ;
+		double  grausC =  ((grausF - fatorAjuste ) * (5/9.0)) ;  /// aqui tem que dar 54
 		
 		System.out.println("************************************");
 		System.out.println("FAtor        => " + fatorConv );
