@@ -17,8 +17,7 @@ public class Observador {
 		janela.add(botao);
 		
 		botao.addActionListener(e -> System.out.println("Algo aconteceu "));
-		
-		
+				
 		janela.setVisible(true);				
 	}
 
