@@ -54,3 +54,9 @@ exercicios-javafx/.project
 exercicios-javafx/.classpath
 app-logging/.settings/org.eclipse.jdt.core.prefs
 exercicios-jpa/.classpath
+exercicios-sb/.mvn/wrapper/maven-wrapper.jar
+exercicios-sb/.mvn/wrapper/maven-wrapper.properties
+exercicios-sb/.mvn/wrapper/MavenWrapperDownloader.java
+exercicios-sb/.mvn/wrapper/maven-wrapper.jar
+exercicios-sb/mvnw
+exercicios-sb/mvnw.cmd
